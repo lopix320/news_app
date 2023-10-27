@@ -1,4 +1,4 @@
-# news_app
+# App de notícias
 
 App de noticias usando Clean Architecture com Bloc Puro usando Streams 
 
