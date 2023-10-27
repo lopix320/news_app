@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+App de noticias usando Clean Architecture com Bloc Puro usando Streams 
 
 ## Getting Started
 
